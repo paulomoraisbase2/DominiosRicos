@@ -1,0 +1,8 @@
+{
+  "ConnectionStrings": {
+    "DominiosRicosDb": "Server=localhost;Database=DominiosRicosdev;Username=postgres;Password=postgres"
+    //"DominiosRicosDb": "Host=apontar.maissolucoes.com;Database=DominiosRicosdbdev;Username=postgres;Password=@_Mb2018"
+  },
+  "JWTSecretKey": "bRhYJRlZvBj2vW4MrV5HVdPgIE6VMtCFB0kTtJ1m",
+  "JWTLifespan": 2592000
+}
